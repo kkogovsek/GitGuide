@@ -325,12 +325,6 @@ Poročilo lahko zapišemo v datoteko enostavno z:
 Več o formatiranju na [povezavi](https://www.kernel.org/pub/software/scm/git/docs/git-log.html).
 **************
 
-Integracija z gitlab CI
---------------------
-
-Na [tem](http://ci.smartis.si) naslovu se prijavite z podatki iz gitlab portala. Nato dodajte svoj projekt v Continious integracijo.
-V nastavitvah morate pri naslovu git projekta nastaviti URL iz http://% v https://% nato pa na vrhu v oknu vnesite skripto za buildanje.
-
 **! Pred zagonom se prepričajte, da so programi, ki jih želite nameščeni na runner računalniku. Za namestitev sem na voljo preko emaila.**
 
 *************
