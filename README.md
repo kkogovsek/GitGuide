@@ -18,9 +18,6 @@ Zahteve gostujočega sistema
 
 *****
 
-Registracija in prijava
--------------
-Na portal se prijavite s [tem](http://git.smartis.si) linkom, če pa še nimate uporabniškega računa, ga lahko kreirate z linkom [Sing up](https://git.smartis.si/users/sign_up) pod obrazcem za prijavo.
 
 *****
 Sintaksa MarkDown
@@ -112,7 +109,7 @@ Več o branchih si lahko preberete na [linku](http://git-scm.com/book/en/Git-Bra
 
 Keiranje novega projekta na spletu
 --------
-Najprej se registrirajte na [git.smartis.si](http://git.smartis.si/).
+Najprej se registrirajte na [github.com](http://github.com/).
 Ko pridete na stran v zgornji navigacijski vrstici izberite ikono +. Nastavite osnovne lastnosti projekta (ime, opis).
 
 ***Zasebnost***
